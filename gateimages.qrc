@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/andgate.png</file>
+        <file>images/orgate.png</file>
+        <file>images/notgate.png</file>
+        <file>images/buffergate.png</file>
+        <file>images/nandgate.png</file>
+        <file>images/norgate.png</file>
+        <file>images/xnorgate.png</file>
+        <file>images/xorgate.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/gateimage"/>
+    <qresource prefix="/">
+        <file>images/andgate.png</file>
+    </qresource>
+</RCC>

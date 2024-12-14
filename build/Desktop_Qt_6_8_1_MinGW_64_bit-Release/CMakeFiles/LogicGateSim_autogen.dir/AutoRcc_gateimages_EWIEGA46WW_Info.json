@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "F:/Qt Projects/LogicGateSim/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/LogicGateSim_autogen",
+	"CMAKE_BINARY_DIR" : "F:/Qt Projects/LogicGateSim/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/Qt Projects/LogicGateSim/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/Qt Projects/LogicGateSim",
+	"CMAKE_SOURCE_DIR" : "F:/Qt Projects/LogicGateSim",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/Qt Projects/LogicGateSim/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/LogicGateSim_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/Qt Projects/LogicGateSim/images/xnorgate.png",
+		"F:/Qt Projects/LogicGateSim/images/norgate.png",
+		"F:/Qt Projects/LogicGateSim/images/buffergate.png",
+		"F:/Qt Projects/LogicGateSim/images/orgate.png",
+		"F:/Qt Projects/LogicGateSim/images/notgate.png",
+		"F:/Qt Projects/LogicGateSim/images/xorgate.png",
+		"F:/Qt Projects/LogicGateSim/images/andgate.png",
+		"F:/Qt Projects/LogicGateSim/images/nandgate.png"
+	],
+	"LOCK_FILE" : "F:/Qt Projects/LogicGateSim/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/LogicGateSim_autogen.dir/AutoRcc_gateimages_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "gateimages" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_gateimages.cpp",
+	"RCC_EXECUTABLE" : "F:/Qt/6.8.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/Qt Projects/LogicGateSim/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/LogicGateSim_autogen.dir/AutoRcc_gateimages_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/Qt Projects/LogicGateSim/gateimages.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
